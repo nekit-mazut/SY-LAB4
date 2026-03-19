@@ -1,0 +1,5 @@
+﻿  lab4.5.cpp
+C:\Users\cdos1\source\repos\lab4.5\lab4.5.cpp(18,14): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\cdos1\source\repos\lab4.5\lab4.5.cpp(55,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\cdos1\source\repos\lab4.5\lab4.5.cpp(79,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab4.5.vcxproj -> C:\Users\cdos1\source\repos\lab4\x64\Debug\lab4.5.exe
