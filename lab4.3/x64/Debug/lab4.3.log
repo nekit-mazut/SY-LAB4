@@ -1,0 +1,4 @@
+﻿  lab4.3.cpp
+C:\Users\cdos1\source\repos\lab4.3\lab4.3.cpp(25,14): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\cdos1\source\repos\lab4.3\lab4.3.cpp(70,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab4.3.vcxproj -> C:\Users\cdos1\source\repos\lab4\x64\Debug\lab4.3.exe
